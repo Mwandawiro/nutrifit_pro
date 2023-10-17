@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412711076627",
+    "project_id": "nutrifrit-pro",
+    "storage_bucket": "nutrifrit-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412711076627:android:ebc00ed8c2bb2e45a4d0e6",
+        "android_client_info": {
+          "package_name": "com.example.nutrifit_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHMVDSfh_vQcxXLyaGI4yMhnzDqXOw-II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
